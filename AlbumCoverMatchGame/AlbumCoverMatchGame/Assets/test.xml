@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<CurrentApp>
+  <ListingInformation>
+    <App>
+      <AppId>00000000-0000-0000-0000-000000000000</AppId>
+      <LinkUri>http://apps.microsoft.com/webpdp/app/00000000-0000-0000-0000-000000000000</LinkUri>
+      <CurrentMarket>en-US</CurrentMarket>
+      <AgeRating>3</AgeRating>
+      <MarketData xml:lang="en-us">
+        <Name>Album Cover Match Game</Name>
+        <Description>Have fun guessing songs and album art from your music collection.</Description>
+        <Price>0.00</Price>
+        <CurrencySymbol>$</CurrencySymbol>
+        <CurrencyCode>USD</CurrencyCode>
+      </MarketData>
+    </App>
+    <Product ProductId="RemoveAdsOffer" LicenseDuration="0" ProductType="Durable">
+      <MarketData xml:lang="en-us">
+        <Name>Remove Ads from the App</Name>
+        <Price>1.00</Price>
+        <CurrencySymbol>$</CurrencySymbol>
+        <CurrencyCode>USD</CurrencyCode>
+      </MarketData>
+    </Product>
+  </ListingInformation>
+  <LicenseInformation>
+    <App>
+      <IsActive>true</IsActive>
+      <IsTrial>false</IsTrial>
+    </App>
+    <Product ProductId="RemoveAdsOffer">
+      <IsActive>false</IsActive>
+    </Product>
+  </LicenseInformation>
+</CurrentApp>

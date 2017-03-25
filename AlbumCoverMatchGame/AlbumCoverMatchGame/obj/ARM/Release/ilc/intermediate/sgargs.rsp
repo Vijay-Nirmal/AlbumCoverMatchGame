@@ -1,0 +1,10 @@
+/out:"D:\Project\Windows 10 Developement\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"D:\Project\Windows 10 Developement\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\ARM\Release\ilc\intermediate\\"
+/ref:"D:\Project\Windows 10 Developement\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"D:\Project\Windows 10 Developement\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\ARM\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"D:\Project\Windows 10 Developement\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\ARM\Release\ilc\in\\"
+/ref:"D:\Project\Windows 10 Developement\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\ARM\Release\ilc\in\\"
+/ref:"D:\Project\Windows 10 Developement\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Private\\"
+/ref:"D:\Project\Windows 10 Developement\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\ARM\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib

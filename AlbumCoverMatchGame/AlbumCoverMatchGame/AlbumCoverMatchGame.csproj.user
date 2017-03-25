@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Source>D:\Project\Photoshop\Works\Album Cover Match\AlbumCoverMatch.png</Source>
+    <SmallTileSource>D:\Project\Photoshop\Works\Album Cover Match\AlbumCoverMatch.png</SmallTileSource>
+    <MediumTileSource>D:\Project\Photoshop\Works\Album Cover Match\AlbumCoverMatch.png</MediumTileSource>
+    <WideTileSource>D:\Project\Photoshop\Works\Album Cover Match\AlbumCoverMatch.png</WideTileSource>
+    <LargeTileSource>D:\Project\Photoshop\Works\Album Cover Match\AlbumCoverMatch.png</LargeTileSource>
+    <AppIconSource>D:\Project\Photoshop\Works\Album Cover Match\AlbumCoverMatch.png</AppIconSource>
+    <SplashScreenSource>D:\Project\Photoshop\Works\Album Cover Match\AlbumCoverMatch.png</SplashScreenSource>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64</AppxBuildConfigurationSelection>
+    <PackageLogoSource>D:\Project\Photoshop\Works\Album Cover Match\AlbumCoverMatch.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>

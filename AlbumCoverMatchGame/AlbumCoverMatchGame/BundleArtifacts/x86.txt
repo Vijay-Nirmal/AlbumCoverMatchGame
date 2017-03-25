@@ -1,0 +1,2 @@
+MainPackage=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x86\Release\AlbumCoverMatchGame_1.0.3.0_x86.appx
+SymbolPackage=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\AppPackages\AlbumCoverMatchGame_1.0.3.0_Test\AlbumCoverMatchGame_1.0.3.0_x86.appxsym

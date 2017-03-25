@@ -1,0 +1,1 @@
+D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\AlbumCoverMatchGame.csproj;x86
