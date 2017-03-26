@@ -15588,10 +15588,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\ponvi\\Documents\\GitHub\\AlbumCoverMatchGame\\AlbumCoverMatchGame\\AlbumCoverMatchGame\\AlbumCoverMatchGame.csproj",
+      "projectUniqueName": "D:\\Project\\Windows 10 Developement\\Projects\\AlbumCoverMatchGame\\AlbumCoverMatchGame\\AlbumCoverMatchGame.csproj",
       "projectName": "AlbumCoverMatchGame",
-      "projectPath": "C:\\Users\\ponvi\\Documents\\GitHub\\AlbumCoverMatchGame\\AlbumCoverMatchGame\\AlbumCoverMatchGame\\AlbumCoverMatchGame.csproj",
-      "projectJsonPath": "C:\\Users\\ponvi\\Documents\\GitHub\\AlbumCoverMatchGame\\AlbumCoverMatchGame\\AlbumCoverMatchGame\\project.json",
+      "projectPath": "D:\\Project\\Windows 10 Developement\\Projects\\AlbumCoverMatchGame\\AlbumCoverMatchGame\\AlbumCoverMatchGame.csproj",
+      "projectJsonPath": "D:\\Project\\Windows 10 Developement\\Projects\\AlbumCoverMatchGame\\AlbumCoverMatchGame\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {

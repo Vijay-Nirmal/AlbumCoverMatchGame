@@ -50,7 +50,6 @@ D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchG
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-256.png
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-32.png
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-48.png
-D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\ilc\Assets\StoreLogo.png
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\ilc\Assets\test.xml
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-100.png
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-125.png
@@ -352,7 +351,6 @@ D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchG
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\x64\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\x64\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\x64\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
-D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\x64\Release\ilc\in\Assets\StoreLogo.png
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\x64\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\x64\Release\ilc\in\Assets\test.xml
 D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\obj\x64\Release\ilc.AlbumCoverMatchGame.rsp

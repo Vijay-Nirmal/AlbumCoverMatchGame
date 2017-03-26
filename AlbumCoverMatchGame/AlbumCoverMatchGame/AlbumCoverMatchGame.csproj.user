@@ -18,7 +18,7 @@
     <SplashScreenSource>D:\Project\Photoshop\Works\Album Cover Match\AlbumCoverMatch.png</SplashScreenSource>
     <AppxPackageIsForStore>False</AppxPackageIsForStore>
     <AppxShowAllApps>False</AppxShowAllApps>
-    <AppxBuildConfigurationSelection>x86|x64</AppxBuildConfigurationSelection>
+    <AppxBuildConfigurationSelection>x64</AppxBuildConfigurationSelection>
     <PackageLogoSource>D:\Project\Photoshop\Works\Album Cover Match\AlbumCoverMatch.png</PackageLogoSource>
   </PropertyGroup>
 </Project>

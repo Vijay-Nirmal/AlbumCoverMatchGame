@@ -94,8 +94,8 @@
 					</Candidate>
 				</NamedResource>
 				<NamedResource name="StoreLogo.png" uri="ms-resource://5ef7e609-a1ab-43ff-9714-116f9124baab/Files/Assets/StoreLogo.png">
-					<Candidate type="Path">
-						<Value>Assets\StoreLogo.png</Value>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-200.png</Value>
 					</Candidate>
 				</NamedResource>
 				<NamedResource name="test.xml" uri="ms-resource://5ef7e609-a1ab-43ff-9714-116f9124baab/Files/Assets/test.xml">

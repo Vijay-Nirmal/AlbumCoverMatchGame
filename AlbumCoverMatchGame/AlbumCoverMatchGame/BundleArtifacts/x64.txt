@@ -1,6 +1,6 @@
-MainPackage=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\AlbumCoverMatchGame_1.0.3.0_x64.appx
-SymbolPackage=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\AppPackages\AlbumCoverMatchGame_1.0.3.0_Test\AlbumCoverMatchGame_1.0.3.0_x64.appxsym
-ResourcePack=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\AlbumCoverMatchGame_1.0.3.0_scale-100.appx
-ResourcePack=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\AlbumCoverMatchGame_1.0.3.0_scale-125.appx
-ResourcePack=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\AlbumCoverMatchGame_1.0.3.0_scale-150.appx
-ResourcePack=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\AlbumCoverMatchGame_1.0.3.0_scale-400.appx
+MainPackage=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\AlbumCoverMatchGame_1.0.5.0_x64.appx
+SymbolPackage=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\AppPackages\AlbumCoverMatchGame_1.0.5.0_Test\AlbumCoverMatchGame_1.0.5.0_x64.appxsym
+ResourcePack=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\AlbumCoverMatchGame_1.0.5.0_scale-100.appx
+ResourcePack=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\AlbumCoverMatchGame_1.0.5.0_scale-125.appx
+ResourcePack=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\AlbumCoverMatchGame_1.0.5.0_scale-150.appx
+ResourcePack=D:\Project\Windows 10 Developement\Projects\AlbumCoverMatchGame\AlbumCoverMatchGame\bin\x64\Release\AlbumCoverMatchGame_1.0.5.0_scale-400.appx
